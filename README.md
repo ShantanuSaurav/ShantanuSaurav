@@ -152,7 +152,6 @@ Currently focusing on the intersection of theoretical AI and practical software 
 
 - **Email:** [shantanusaurav54@gmail.com](mailto:shantanusaurav54@gmail.com)
 - **LinkedIn:** [Shantanu Saurav](https://www.linkedin.com/in/shantanu-saurav-6233632b1)
-- **GitHub:** [ShantanuSaurav](https://github.com/ShantanuSaurav)
 - **Hugging Face:** [HYPERx54](https://huggingface.co/HYPERx54)
 
 ---
