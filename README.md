@@ -12,7 +12,7 @@ I am a Computer Science student specializing in AI & ML at the Vellore Institute
 
 ---
 
-## 🔬 AI / ML Focus
+##  AI / ML Focus
 
 |  Machine Learning |  Deep Learning |  Generative AI |
 |:---:|:---:|:---:|
