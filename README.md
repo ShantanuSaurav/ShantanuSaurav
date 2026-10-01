@@ -6,7 +6,7 @@ AI/ML Enthusiast • Machine Learning • Deep Learning • Generative AI • Pr
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I am a Computer Science student specializing in AI & ML at the Vellore Institute of Technology (VIT). I focus on Machine Learning, Deep Learning, and Generative AI to build intelligent, practical systems. My passion lies in solving real-world problems and translating complex AI models into scalable products.
 
@@ -14,13 +14,13 @@ I am a Computer Science student specializing in AI & ML at the Vellore Institute
 
 ## 🔬 AI / ML Focus
 
-| 🤖 Machine Learning | 🧠 Deep Learning | 🚀 Generative AI |
+|  Machine Learning |  Deep Learning |  Generative AI |
 |:---:|:---:|:---:|
 | Predictive Modeling<br>Data Analysis<br>Regression & Classification | Artificial Neural Networks<br>PyTorch<br>Time-Series Forecasting | Retrieval-Augmented Generation (RAG)<br>Large Language Models (LLMs)<br>Prompt Engineering |
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### Predictive ML-Driven DDoS Defence for SDN-Enabled ICS
 A Python-based simulation framework for evaluating machine learning models against DDoS attacks in Software-Defined Networking (SDN) environments.
@@ -102,26 +102,26 @@ A verified ticket exchange platform for secure event ticket transactions.
 
 ---
 
-## 🛠️ AI / ML Tech Stack
+##  AI / ML Tech Stack
 
-### 🤖 Machine Learning & AI
+###  Machine Learning & AI
 `Python` • `PyTorch` • `Scikit-learn` • `NumPy` • `Pandas` • `Matplotlib` • `Hugging Face`
 
-### 🧑‍💻 Programming
+###  Programming
 `Python` • `C++` • `TypeScript` • `SQL`
 
-### 🌐 AI Application Engineering
+###  AI Application Engineering
 `FastAPI` • `React` • `NestJS` • `PostgreSQL` • `MongoDB` • `MySQL` • `SQLite` • `Redis`
 
 ---
 
-## 📈 Current Direction
+##  Current Direction
 
 Currently focusing on the intersection of theoretical AI and practical software engineering. My goal is to continue moving from foundational **Machine Learning** into advanced **Generative AI** and **AI Engineering**, learning to build and deploy robust AI-powered products that solve actual problems.
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Deep Learning & Artificial Neural Networks
 - Retrieval-Augmented Generation (RAG)
@@ -131,7 +131,7 @@ Currently focusing on the intersection of theoretical AI and practical software 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <a href="https://github.com/ShantanuSaurav">
@@ -148,7 +148,7 @@ Currently focusing on the intersection of theoretical AI and practical software 
 
 ---
 
-## 📫 Connect
+##  Connect
 
 - **Email:** [shantanusaurav54@gmail.com](mailto:shantanusaurav54@gmail.com)
 - **LinkedIn:** [Shantanu Saurav](https://www.linkedin.com/in/shantanu-saurav-6233632b1)
